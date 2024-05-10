@@ -1,14 +1,13 @@
 ''' 
-Task 1: Demonstrate the 
-build a rag also known as reterival augmented generation for interaction with your data using openai embedding
-and then search for similar document based on your
+build a rag also known as retrieval augmented generation (RAG) for interaction with your data using openai embedding
+and then search for similar document based on your similarity search and then use the langchain chain's to build a small rag application. 
 
 Task 1: Documents + query -> embeddings of both using the opensource embeddings such as  -> similarity search using the cosine similiarity
 
 
 '''
 # list of string
-documents = ['my name is ak','i live in paris','i work at the google','my job role includes build a rag']
+documents = ['my name is ak','i live in paris','i work at the xyz','my job role includes build a rag']
 
 query = input()
 
