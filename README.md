@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) application
+# Retrieval-Augmented Generation (RAG) application [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faneeshgadhwal%2FRag&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
